@@ -105,6 +105,38 @@ body {
     font-weight: bold;
 }
 
+
+.working-process h1 {
+  font-family: 'Poppins';
+  font-size: 58px;
+  font-weight: 600; 
+}
+
+.working-process p {
+  font-family: 'Poppins';
+  font-size: 19px;
+  font-weight: 300;
+  padding-bottom: 90px;
+}
+
+.working-process-options img {
+  margin-bottom: 46px;
+}
+
+.working-process-options h2 {
+  font-family: 'Poppins';
+  font-size: 42px;
+  font-weight: 500; 
+  margin-bottom: 40px;
+}
+
+.working-process-options p {
+  font-family: 'Poppins';
+  font-size: 17px;
+  font-weight: 400;
+  color: #8C8C98;  
+}
+
 .integrats-tool {
   margin-top: 600px;
 }
