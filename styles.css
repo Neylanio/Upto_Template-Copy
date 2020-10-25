@@ -130,6 +130,21 @@ body {
   margin-bottom: 15px;
 }
 
+.container-text-amazing-solution {
+  margin-left: -100px;
+  margin-right: 100px;
+}
+
+.background-green {
+  background-color: #ECF2FF;
+  padding-left: 100px;
+}
+
+.ts-amazing-solution {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
 footer.container {
     background-color: #ECF2FF;
     min-height: 604px;
