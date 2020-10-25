@@ -108,6 +108,28 @@ body {
     font-weight: bold;
 }
 
+.integrats-tool h1 {
+  font-family: 'Poppins';
+  font-size: 42px;
+  font-weight: 600;  
+}
+
+.integrats-tool p {
+  font-family: 'Poppins';
+  font-size: 17px;
+  font-weight: 400;
+  color: #8C8C98;
+}
+
+.images-tools {
+  padding-left: 150px;
+}
+
+.images-tools img {
+  margin-right: 10px;
+  margin-bottom: 15px;
+}
+
 footer.container {
     background-color: #ECF2FF;
     min-height: 604px;
