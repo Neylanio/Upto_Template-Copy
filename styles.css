@@ -140,3 +140,29 @@ footer.container {
   margin-left: 50px;
   width: 50px;
 }
+.options {
+  width: 100%;
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.options .cl-md:last-child {
+  padding-left: 30px;
+}
+
+.options .cl-md:last-child p {
+  color: #8C8C98;
+  width: 83%;
+}
+
+.main2 .row .col-md .row div h2{
+  font-family: 'Poppins';
+  font-size: 32px;
+  font-weight: 500;
+}
+
+.main2 .row .col-md .row div p{
+  font-family: 'Ubuntu';
+  font-size: 17px;
+  font-weight: 400;
+}
