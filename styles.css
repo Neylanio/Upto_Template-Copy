@@ -94,9 +94,9 @@ body {
     height: 60px;
 }
 
-.list-group-item {
-    border: 0px !important;
-    background-color: #fff0 !important;
+.list-group-item-borders li {
+    border: 0px;
+    background-color: #fff0;
     color: #8C8C98;
 }
 
@@ -117,4 +117,26 @@ footer.container {
 
 .list-footer-primary {
     background-color: red;
+}
+
+.banner-ready {
+  background-color: #5271FF;
+  color: #FFF;
+  padding: 60px;
+  margin: 90px;
+  margin-bottom: -80px;
+  position: relative;
+}
+
+.btn-get-in {
+  height: 50px;
+  background-color: #FFF;
+  color: black;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 3px;
+  margin-left: 50px;
+  width: 50px;
 }
