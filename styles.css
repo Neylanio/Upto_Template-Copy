@@ -56,9 +56,7 @@ body {
 .jumbotron {
   background-color: #fff;
 }
-.main {
-  /* background: tomato; */
-}
+
 .main .row {
   display: flex;
   justify-content: space-between;
@@ -66,7 +64,6 @@ body {
 }
 
 .main .row:first-child {
-  /* background: black; */
   font-family: 'Poppins';
   align-items: center;
 }
@@ -85,7 +82,7 @@ body {
   width: 110%;
 }
 .list-group-item {
-    background-color: #8C8C98;
+  background-color: #8C8C98;
 }
 
 .list-group-item:first-child {
@@ -107,6 +104,7 @@ body {
 .description-revation span {
     font-weight: bold;
 }
+
 
 .working-process h1 {
   font-family: 'Poppins';
@@ -139,6 +137,10 @@ body {
   color: #8C8C98;  
 }
 
+.integrats-tool {
+  margin-top: 600px;
+}
+
 .integrats-tool h1 {
   font-family: 'Poppins';
   font-size: 42px;
@@ -167,6 +169,7 @@ body {
 }
 
 .background-green {
+  margin: 100px 0;
   background-color: #ECF2FF;
   padding-left: 100px;
 }
@@ -177,10 +180,10 @@ body {
 }
 
 footer.container {
-    background-color: #ECF2FF;
-    min-height: 604px;
-    padding: 200px;
-    padding-bottom: 10px;
+  background-color: #ECF2FF;
+  min-height: 604px;
+  padding: 200px;
+  padding-bottom: 10px;
 }
 
 .list-footer-primary {
@@ -233,4 +236,68 @@ footer.container {
   font-family: 'Ubuntu';
   font-size: 17px;
   font-weight: 400;
+}
+
+.main2 .img-main2 {
+  text-align: right;
+}
+
+.main3 {
+  /* background: tomato; */
+}
+
+.main3 .row {
+  width: 1300px;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+  position: absolute;
+  left: 0px;
+  /* background: salmon; */
+}
+
+.main3 .row:first-child {
+  
+}
+
+.main3 .row:first-child .cl-md img{
+  z-index: 4;
+  margin-bottom: 200px;
+}
+
+.main3 .row:last-child {
+  font-family: 'Poppins';    
+  margin: 0 auto;
+}
+
+.main3 .row:last-child h2 {
+  font-size: 42px;
+  font-weight: 600;
+}
+
+.main3 .row:last-child p {
+  font-size: 14px;
+  font-weight: 400;
+}
+
+#know-more {
+  display: flex;
+  align-items: center;
+}
+
+#know-more a {
+  text-decoration: none;
+  color: #cc3b21;
+  font-family: 'Poppins';
+  font-size: 13px;
+  font-weight: 600;
+}
+
+#know-more a:hover {
+  color: #ed583e;
+}
+
+.ready {
+  margin-top: 100px;
 }
