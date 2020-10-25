@@ -80,3 +80,37 @@ body {
 .main .row:last-child {
   width: 110%;
 }
+.list-group-item {
+    background-color: #8C8C98;
+}
+
+.list-group-item:first-child {
+    font-weight: bold;
+    color: #30323A;
+    height: 60px;
+}
+
+.list-group-item {
+    border: 0px !important;
+    background-color: #fff0 !important;
+    color: #8C8C98;
+}
+
+.description-revation {
+    margin-top: 80px;
+}
+
+.description-revation span {
+    font-weight: bold;
+}
+
+footer.container {
+    background-color: #ECF2FF;
+    min-height: 604px;
+    padding: 200px;
+    padding-bottom: 10px;
+}
+
+.list-footer-primary {
+    background-color: red;
+}
