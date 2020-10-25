@@ -11,10 +11,14 @@
 }
 
 body {
-  width: 68vw;
+  width: 100vw;
   height: 100vh;
-  margin: 0 auto;
   background: var(--background);
+}
+
+.all {
+  width: 68vw;
+  margin: 0 auto;
 }
 
 .navbar-nav li {
