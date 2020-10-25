@@ -11,14 +11,14 @@
 }
 
 body {
-  width: 70vw;
+  width: 68vw;
   height: 100vh;
   margin: 0 auto;
   background: var(--background);
 }
 
-div img {
-  background: #fff;
+.navbar-nav li {
+  padding: 0 16px;
 }
 
 .navbar-nav li a {
@@ -52,18 +52,19 @@ div img {
 .jumbotron {
   background-color: #fff;
 }
-
-.main .row {
+.main {
   /* background: tomato; */
+}
+.main .row {
   display: flex;
   justify-content: space-between;
   flex-wrap: nowrap;
 }
 
 .main .row:first-child {
+  /* background: black; */
   font-family: 'Poppins';
   align-items: center;
-  width: 110%;
 }
 
 .main .row:first-child h1{
@@ -74,4 +75,8 @@ div img {
 .main .row:first-child p{
   font-size: 19px;
   font-weight: 300;
+}
+
+.main .row:last-child {
+  width: 110%;
 }
