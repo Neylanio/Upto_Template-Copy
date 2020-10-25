@@ -106,6 +106,10 @@ body {
 }
 
 
+.working-process {
+  margin-top: 600px;
+}
+
 .working-process h1 {
   font-family: 'Poppins';
   font-size: 58px;
@@ -138,7 +142,7 @@ body {
 }
 
 .integrats-tool {
-  margin-top: 600px;
+  margin-top: 100px;
 }
 
 .integrats-tool h1 {
