@@ -7,5 +7,3 @@ Esse projeto rápido foi um desafio da disciplina de Linguagem de Estilo da pós
 Devs: Thiago B. (https://github.com/ThiagoRBrasil), Thomas J. (https://github.com/ThomasLossio) e Eu (Neylanio).
 
 * Landing Page = https://upto-copy.netlify.app/
-
-OBS: Faltando deixar responsivo... rsrs. Fazer isso qualquer dia desses.
